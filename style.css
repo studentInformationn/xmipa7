@@ -1,0 +1,18 @@
+.navbar-brand {
+  font-family: viga;
+}
+
+body {
+  background-image: url(img/narrow-muddy-road-dark-forest.jpg);
+}
+
+h1 {
+  font-family: viga;
+  font-size: 28px;
+}
+
+#container {
+  padding-top: 21rem;
+  padding-left: 1rem;
+  color: beige;
+}
